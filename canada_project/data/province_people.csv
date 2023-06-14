@@ -1,0 +1,31 @@
+COORDINATE,GEO,Age group,Sex,Response,Estimates,UOM,SCALAR_FACTOR,VECTOR,VALUE,STATUS
+7.1.1.8.1,Newfoundland and Labrador,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116748817,191.0,
+7.1.1.4.1,Newfoundland and Labrador,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116748829,17.0,E
+7.1.1.9.1,Newfoundland and Labrador,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116748833,7.0,E
+8.1.1.8.1,Prince Edward Island,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116749897,52.0,
+8.1.1.4.1,Prince Edward Island,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116749909,5.0,E
+8.1.1.9.1,Prince Edward Island,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116749913,0.0,F
+9.1.1.8.1,Nova Scotia,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116750977,326.0,
+9.1.1.4.1,Nova Scotia,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116750989,32.0,E
+9.1.1.9.1,Nova Scotia,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116750993,25.0,E
+10.1.1.8.1,New Brunswick,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116752057,279.0,
+10.1.1.4.1,New Brunswick,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116752069,25.0,E
+10.1.1.9.1,New Brunswick,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116752073,11.0,E
+3.1.1.8.1,Quebec,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116753133,2981.0,
+3.1.1.4.1,Quebec,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116319687,238.0,
+3.1.1.9.1,Quebec,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116753137,123.0,
+4.1.1.8.1,Ontario,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116753877,4805.0,
+4.1.1.4.1,Ontario,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116320023,691.0,
+4.1.1.9.1,Ontario,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116753881,418.0,
+11.1.1.8.1,Manitoba,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116755369,457.0,
+11.1.1.4.1,Manitoba,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116755381,58.0,
+11.1.1.9.1,Manitoba,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116755385,40.0,E
+12.1.1.8.1,Saskatchewan,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116756449,390.0,
+12.1.1.4.1,Saskatchewan,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116756461,32.0,E
+12.1.1.9.1,Saskatchewan,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116756465,22.0,E
+13.1.1.8.1,Alberta,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116757529,1612.0,
+13.1.1.4.1,Alberta,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116757541,149.0,
+13.1.1.9.1,Alberta,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116757545,107.0,E
+6.1.1.8.1,British Columbia,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Number of persons,Persons,thousands,v116758605,1639.0,
+6.1.1.4.1,British Columbia,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Number of persons,Persons,thousands,v116320695,164.0,
+6.1.1.9.1,British Columbia,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Number of persons,Persons,thousands,v116758609,117.0,

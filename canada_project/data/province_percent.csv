@@ -1,0 +1,31 @@
+COORDINATE,GEO,Age group,Sex,Response,Estimates,UOM,SCALAR_FACTOR,VECTOR,VALUE,STATUS
+7.1.1.8.2,Newfoundland and Labrador,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116748818,87.4,
+7.1.1.4.2,Newfoundland and Labrador,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116748830,7.8,E
+7.1.1.9.2,Newfoundland and Labrador,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116748834,3.4,E
+8.1.1.8.2,Prince Edward Island,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116749898,88.5,
+8.1.1.4.2,Prince Edward Island,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116749910,8.5,E
+8.1.1.9.2,Prince Edward Island,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116749914,0.0,F
+9.1.1.8.2,Nova Scotia,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116750978,84.1,
+9.1.1.4.2,Nova Scotia,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116750990,8.3,E
+9.1.1.9.2,Nova Scotia,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116750994,6.5,E
+10.1.1.8.2,New Brunswick,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116752058,87.3,
+10.1.1.4.2,New Brunswick,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116752070,8.0,E
+10.1.1.9.2,New Brunswick,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116752074,3.6,E
+3.1.1.8.2,Quebec,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116753134,88.7,
+3.1.1.4.2,Quebec,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116319688,7.1,
+3.1.1.9.2,Quebec,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116753138,3.7,
+4.1.1.8.2,Ontario,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116753878,80.7,
+4.1.1.4.2,Ontario,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116320024,11.6,
+4.1.1.9.2,Ontario,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116753882,7.0,
+11.1.1.8.2,Manitoba,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116755370,81.8,
+11.1.1.4.2,Manitoba,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116755382,10.4,
+11.1.1.9.2,Manitoba,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116755386,7.2,E
+12.1.1.8.2,Saskatchewan,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116756450,85.6,
+12.1.1.4.2,Saskatchewan,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116756462,7.1,E
+12.1.1.9.2,Saskatchewan,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116756466,4.9,E
+13.1.1.8.2,Alberta,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116757530,84.8,
+13.1.1.4.2,Alberta,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116757542,7.8,
+13.1.1.9.2,Alberta,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116757546,5.6,E
+6.1.1.8.2,British Columbia,"Total, 15 years and over",Both sexes,Very satisfied or satisfied,Percentage of persons,Percent,units ,v116758606,83.9,
+6.1.1.4.2,British Columbia,"Total, 15 years and over",Both sexes,Neither satisfied nor dissatisfied,Percentage of persons,Percent,units ,v116320696,8.4,
+6.1.1.9.2,British Columbia,"Total, 15 years and over",Both sexes,Dissatisfied or very dissatisfied,Percentage of persons,Percent,units ,v116758610,6.0,
