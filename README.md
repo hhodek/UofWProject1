@@ -1,2 +1,0 @@
-# UofWProject1
-Gonna list some possible variable combinations to consider: satisfaction levels/sub-levels per province (I'm thinking a bar chart and regression by converting), province against age range (not sure on graphics yet), gender on satisfaction (forgot how to think, gonna blank this one), some other stuff i forgot i guess
