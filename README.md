@@ -4,7 +4,8 @@
 
     What we have found in the provincial data is a rather weak relationship between province and satisfaction level.
 
-![Satisfaction percentages by province](canada_project/results/province_bar_percent.png)
+    ![Satisfaction percentages by province](canada_project/results/province_bar_percent.png)
+    Satisfaction percentages by province
     
     Overall by province, there does not seem to be a trend in the data. This is reinforced by the bar graph of percent of satisfaction level responses by region, and further emphasized by the fact that there is no statistical significance in the data. What this could imply is, at least as of 2016, there is a generally unanimous occupational satisfaction amongst the Canadian population, that 
 
