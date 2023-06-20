@@ -14,7 +14,7 @@
     Due to previous point mentioned, normality and homogeneity of variance (independence in this case) would be hard to find, yet we decided to test them, at least on one the first variable set.
 
     With all that said, a hypothesis test was done twice on these variables. The null hypothesis is this: the various geographic divisions of Canada have no bearing on job satisfaction levels. The p-values tested on an alpha of 0.05 with the anova one-way test have shown both the general response and the responses of only satifaction are statistically significant, being both less than 0.001, thus region has no signifcant bearing on job satifaction.
-    The implications of this are very diverse, but two come to mind One is that Canada is politically unified enough that no one political region has a significant benefit or hinderance to the others in relation to the labor force. The second is that there is a generally steady flow of employment opportunities present throughout Canada, as the satisfaction levels are all greater than 70% but less than 95%.
+    The implications of this are very diverse, but two come to mind. One is that Canada is politically unified enough that no one political region has a significant benefit or hinderance to the others in relation to the labor force. The second is that there is a generally steady flow of employment opportunities present throughout Canada, as the satisfaction levels are all greater than 70% but less than 95%.
 
 2.	Is there a correlation between gender and job satisfaction?
 3.	Does age have an impact on job satisfaction?
