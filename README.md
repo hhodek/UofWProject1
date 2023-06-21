@@ -20,6 +20,7 @@
 
 2.	Is there a correlation between gender and job satisfaction?
 3.	Does age have an impact on job satisfaction?
+   
     No, age group does not have a significant impact on job satisfaction. We were able to draw this conclusion by first cleaning up the data to put into a bar graph with each satisfaction level as a column in each age group.
   	
   	From there I tried to calculate the absolute difference between the satisfaction and dissatisfaction columns for each age group. The absolute difference did not offer any additional insights however it led me to the next test which was relative change.
