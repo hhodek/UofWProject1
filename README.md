@@ -19,6 +19,7 @@
     The implications of this are very diverse, but two come to mind. One is that Canada is politically unified enough that no one political region has a significant benefit or hinderance to the others in relation to the labor force. The second is that there is a generally steady flow of employment opportunities present throughout Canada, as the satisfaction levels are all greater than 70% but less than 95%.
 
 2.	Is there a correlation between gender and job satisfaction?
+   
    The level of job satisfaction for each response is fairly consistent between male and female respondents.    For the response selection of "Very satisfied or satisfied" approximately 320K more males were in that category, however from a percentage comparison females were slightly higer at 85.2% compared to males at 82.8%.
   	There were no observable trends correlating if respondents were male or female
 
