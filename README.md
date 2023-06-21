@@ -7,6 +7,8 @@
     ![Satisfaction percentages by province](canada_project/results/province_bar_percent.png)
     Satisfaction percentages by province
     
+    ![2016 Canadian Job Satisfaction Percent by Gender](https://github.com/hhodek/UofWProject1/blob/main/canada_project/results/gender_percent_bar.png)
+    thing
     
     Doing some statistical analysis to verify if this data set is to be met with caution, we have the following:
     The actual reported numbers in the values column for "persons" counts, as they are by units of 1000s, represent a little over half the population of Canade as of 2016, thus population representation is not something to worry
@@ -20,7 +22,7 @@
 
 2.	Is there a correlation between gender and job satisfaction?
    
-   The level of job satisfaction for each response is fairly consistent between male and female respondents.    For the response selection of "Very satisfied or satisfied" approximately 320K more males were in that category, however from a percentage comparison females were slightly higer at 85.2% compared to males at 82.8%.
+    The level of job satisfaction for each response is fairly consistent between male and female respondents.    For the response selection of "Very satisfied or satisfied" approximately 320K more males were in that category, however from a percentage comparison females were slightly higer at 85.2% compared to males at 82.8%.
   	There were no observable trends correlating if respondents were male or female
 
     ![2016 Canadian Job Satisfaction Percent by Gender](https://github.com/hhodek/UofWProject1/blob/main/canada_project/results/gender_percent_bar.png)
