@@ -19,30 +19,46 @@
     The implications of this are very diverse, but two come to mind. One is that Canada is politically unified enough that no one political region has a significant benefit or hinderance to the others in relation to the labor force. The second is that there is a generally steady flow of employment opportunities present throughout Canada, as the satisfaction levels are all greater than 70% but less than 95%.
 
 2.	Is there a correlation between gender and job satisfaction?
+   
+   The level of job satisfaction for each response is fairly consistent between male and female respondents.    For the response selection of "Very satisfied or satisfied" approximately 320K more males were in that category, however from a percentage comparison females were slightly higer at 85.2% compared to males at 82.8%.
+  	There were no observable trends correlating if respondents were male or female
 
+4.	Does age have an impact on job satisfaction?
+   
+    - No, age group does not have a significant impact on job satisfaction. We were able to draw this conclusion by first cleaning up the data to put into a bar graph with each satisfaction level as a column for each age group category.
+  	
+  	- From there I tried to calculate the absolute difference between the satisfaction and dissatisfaction columns for each age group. The absolute difference did not offer any additional insights however it led me to the next test which was relative change.
+  	
+  	- To calculate the relative change for each age group I subtracted the satisfaction column from the dissatisfaction column, then divided that by the satisfaction level and multiplied by 100. This graph allowed us to visually see that the percent difference between the satisfaction levels was not significantly different enough to correlate to a trend between job satisfaction and age group
 
+Other reference and information:
+Statistics Canada
+https://www.statcan.gc.ca/en/start
 
-3.	Does age have an impact on job satisfaction?
-
-Statistics Canada https://www.statcan.gc.ca/en/start
-
-Job satisfaction by age group and sex, Canada, provinces and regions (x1,000) note1: Source: Statistics Canada, General Social Survey, 2016, Canadians at work and home. note2: The question JSR_Q02 about level of job satisfaction was asked to employed workers only. Please see the questionnaire for more details.
+Job satisfaction by age group and sex, Canada, provinces and regions (x1,000)
+note1: Source: Statistics Canada, General Social Survey, 2016, Canadians at work and home.
+note2: The question JSR_Q02 about level of job satisfaction was asked to employed workers only. Please see the questionnaire for more details.
 
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2210011101
 
-General Social Survey(GSS): Canadians at Work and Home Data released - 11/14/17
+General Social Survey(GSS): Canadians at Work and Home
+Data released - 11/14/17
+- GSS surveys every 5 years
+- GSS survey objectives are to gather data on trends to monitor changes in living conditions and well being, and provide information on specific social policy issues
+- one eligible person (non-institutionalized person 15 years old or older) is randomly selected from sampled household
+- Canadians at Work and Home survey in 2016 was the first time conductive; 50.8 response rate
 
-GSS surveys every 5 years
-GSS survey objectives are to gather data on trends to monitor changes in living conditions and well being, and provide information on specific social policy issues
-one eligible person (non-institutionalized person 15 years old or older) is randomly selected from sampled household
-Canadians at Work and Home survey in 2016 was the first time conductive; 50.8 response rate
-Goal was to uncover trends in job satisfaction throughout Canada We examined factors - geographically, gender and age group
+Goal was to uncover trends in job satisfaction throughout Canada
+We examined factors - geographically, gender and age group
 
 36.11 million (2016) Canada Population
 
-CONCLUSION After data clean-up and review of analysis, we concluded that with the areas we focused on there were not discernable differences between Job Satisfaction responses. We believe to further investigate job satisfaction, whether Canada or other countries geographies, we need to find additional data considering other factors.
+CONCLUSION
+After data clean-up and review of analysis, we concluded that with the areas we focused on there were not discernable differences between Job Satisfaction responses.
+We believe to further investigate job satisfaction, whether Canada or other countries geographies, we need to find additional data considering other factors.
 
 Responses - data limitations
+- several responses, when broken down by age group or geographically, were surpressed and accompanied in dataset by symbol "E: use with caution" or replaced by "F: too unreliable to be published".
+- when rolled up to categories inclusive of all subgroups, some additional results were available
 
-several responses, when broken down by age group or geographically, were surpressed and accompanied in dataset by symbol "E: use with caution" or replaced by "F: too unreliable to be published".
-when rolled up to categories inclusive of all subgroups, some additional results were available
+
