@@ -8,7 +8,7 @@
     Satisfaction percentages by province
     
     
-    Doing some satistical analysis to verify if this data set is to be met with caution, we have the following:
+    Doing some statistical analysis to verify if this data set is to be met with caution, we have the following:
     The actual reported numbers in the values column for "persons" counts, as they are by units of 1000s, represent a little over half the population of Canade as of 2016, thus population representation is not something to worry
     The way data is represented as bulk values, as well as the fact that there are only 3 qualitative responses, indicate that there is not much that can be done from a regressive state of analysis
     Due to previous point mentioned, normality and homogeneity of variance (independence in this case) would be hard to find, yet we decided to test them, at least on one the first variable set.
