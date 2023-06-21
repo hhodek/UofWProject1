@@ -26,6 +26,7 @@
       ![2016 Canadian Job Satisfaction Percent by Gender](canada_project/results/gender_percent_bar.png)
       2016 Canadian Job Satisfaction Percent by Gender
 
+
 4.	Does age have an impact on job satisfaction?
    
     - No, age group does not have a significant impact on job satisfaction. We were able to draw this conclusion by first cleaning up the data to put into a bar graph with each satisfaction level as a column for each age group category.
