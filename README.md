@@ -23,7 +23,7 @@
    The level of job satisfaction for each response is fairly consistent between male and female respondents.    For the response selection of "Very satisfied or satisfied" approximately 320K more males were in that category, however from a percentage comparison females were slightly higer at 85.2% compared to males at 82.8%.
   	There were no observable trends correlating if respondents were male or female
 
-      ![2016 Canadian Job Satisfaction Percent by Gender](canada_project/results/gender_percent_bar.png)
+      ![2016 Canadian Job Satisfaction Percent by Gender](https://github.com/hhodek/UofWProject1/blob/main/canada_project/results/gender_percent_bar.png)
       2016 Canadian Job Satisfaction Percent by Gender
 
 
