@@ -1,6 +1,6 @@
 # UofWProject1
 
-1.	Are there trends in job satisfaction geographically? (the one I am answering)
+1.	Are there trends in job satisfaction geographically? 
 
     What we have found in the provincial data is a rather weak relationship between province and satisfaction level.
 
